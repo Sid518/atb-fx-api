@@ -1,0 +1,1514 @@
+[
+  {
+    "from": "CAD",
+    "to": "CAD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "CAD",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "CAD",
+    "amount": "1.015",
+    "convertedAmount": "1.02",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "CAD",
+    "amount": "123.45",
+    "convertedAmount": "123.45",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "CAD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "CAD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1000000000000.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "USD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.720000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "USD",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.720000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "USD",
+    "amount": "1.015",
+    "convertedAmount": "0.73",
+    "exchangeRate": "0.720000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "USD",
+    "amount": "123.45",
+    "convertedAmount": "88.88",
+    "exchangeRate": "0.720000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "USD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.720000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "USD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "720000000000.00",
+    "exchangeRate": "0.720000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "EUR",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.660000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "EUR",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.660000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "EUR",
+    "amount": "1.015",
+    "convertedAmount": "0.67",
+    "exchangeRate": "0.660000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "EUR",
+    "amount": "123.45",
+    "convertedAmount": "81.48",
+    "exchangeRate": "0.660000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "EUR",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.660000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "EUR",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "660000000000.00",
+    "exchangeRate": "0.660000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "GBP",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.570000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "GBP",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.570000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "GBP",
+    "amount": "1.015",
+    "convertedAmount": "0.58",
+    "exchangeRate": "0.570000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "GBP",
+    "amount": "123.45",
+    "convertedAmount": "70.37",
+    "exchangeRate": "0.570000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "GBP",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.570000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "GBP",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "570000000000.00",
+    "exchangeRate": "0.570000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "AUD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.090000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "AUD",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "1.090000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "AUD",
+    "amount": "1.015",
+    "convertedAmount": "1.11",
+    "exchangeRate": "1.090000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "AUD",
+    "amount": "123.45",
+    "convertedAmount": "134.56",
+    "exchangeRate": "1.090000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "AUD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.090000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "AUD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1090000000000.00",
+    "exchangeRate": "1.090000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "JPY",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "109.500000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "JPY",
+    "amount": "0.01",
+    "convertedAmount": "1.10",
+    "exchangeRate": "109.500000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "JPY",
+    "amount": "1.015",
+    "convertedAmount": "111.14",
+    "exchangeRate": "109.500000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "JPY",
+    "amount": "123.45",
+    "convertedAmount": "13517.78",
+    "exchangeRate": "109.500000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "JPY",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "109.500000000000"
+  },
+  {
+    "from": "CAD",
+    "to": "JPY",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "109500000000000.00",
+    "exchangeRate": "109.500000000000"
+  },
+  {
+    "from": "USD",
+    "to": "CAD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.388888888889"
+  },
+  {
+    "from": "USD",
+    "to": "CAD",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "1.388888888889"
+  },
+  {
+    "from": "USD",
+    "to": "CAD",
+    "amount": "1.015",
+    "convertedAmount": "1.41",
+    "exchangeRate": "1.388888888889"
+  },
+  {
+    "from": "USD",
+    "to": "CAD",
+    "amount": "123.45",
+    "convertedAmount": "171.46",
+    "exchangeRate": "1.388888888889"
+  },
+  {
+    "from": "USD",
+    "to": "CAD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.388888888889"
+  },
+  {
+    "from": "USD",
+    "to": "CAD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1388888888888.89",
+    "exchangeRate": "1.388888888889"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "amount": "1.015",
+    "convertedAmount": "1.02",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "amount": "123.45",
+    "convertedAmount": "123.45",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "USD",
+    "to": "USD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1000000000000.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "USD",
+    "to": "EUR",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.916666666667"
+  },
+  {
+    "from": "USD",
+    "to": "EUR",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.916666666667"
+  },
+  {
+    "from": "USD",
+    "to": "EUR",
+    "amount": "1.015",
+    "convertedAmount": "0.93",
+    "exchangeRate": "0.916666666667"
+  },
+  {
+    "from": "USD",
+    "to": "EUR",
+    "amount": "123.45",
+    "convertedAmount": "113.16",
+    "exchangeRate": "0.916666666667"
+  },
+  {
+    "from": "USD",
+    "to": "EUR",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.916666666667"
+  },
+  {
+    "from": "USD",
+    "to": "EUR",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "916666666666.67",
+    "exchangeRate": "0.916666666667"
+  },
+  {
+    "from": "USD",
+    "to": "GBP",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.791666666667"
+  },
+  {
+    "from": "USD",
+    "to": "GBP",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.791666666667"
+  },
+  {
+    "from": "USD",
+    "to": "GBP",
+    "amount": "1.015",
+    "convertedAmount": "0.80",
+    "exchangeRate": "0.791666666667"
+  },
+  {
+    "from": "USD",
+    "to": "GBP",
+    "amount": "123.45",
+    "convertedAmount": "97.73",
+    "exchangeRate": "0.791666666667"
+  },
+  {
+    "from": "USD",
+    "to": "GBP",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.791666666667"
+  },
+  {
+    "from": "USD",
+    "to": "GBP",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "791666666666.67",
+    "exchangeRate": "0.791666666667"
+  },
+  {
+    "from": "USD",
+    "to": "AUD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.513888888889"
+  },
+  {
+    "from": "USD",
+    "to": "AUD",
+    "amount": "0.01",
+    "convertedAmount": "0.02",
+    "exchangeRate": "1.513888888889"
+  },
+  {
+    "from": "USD",
+    "to": "AUD",
+    "amount": "1.015",
+    "convertedAmount": "1.54",
+    "exchangeRate": "1.513888888889"
+  },
+  {
+    "from": "USD",
+    "to": "AUD",
+    "amount": "123.45",
+    "convertedAmount": "186.89",
+    "exchangeRate": "1.513888888889"
+  },
+  {
+    "from": "USD",
+    "to": "AUD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.513888888889"
+  },
+  {
+    "from": "USD",
+    "to": "AUD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1513888888888.89",
+    "exchangeRate": "1.513888888889"
+  },
+  {
+    "from": "USD",
+    "to": "JPY",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "152.083333333333"
+  },
+  {
+    "from": "USD",
+    "to": "JPY",
+    "amount": "0.01",
+    "convertedAmount": "1.52",
+    "exchangeRate": "152.083333333333"
+  },
+  {
+    "from": "USD",
+    "to": "JPY",
+    "amount": "1.015",
+    "convertedAmount": "154.36",
+    "exchangeRate": "152.083333333333"
+  },
+  {
+    "from": "USD",
+    "to": "JPY",
+    "amount": "123.45",
+    "convertedAmount": "18774.69",
+    "exchangeRate": "152.083333333333"
+  },
+  {
+    "from": "USD",
+    "to": "JPY",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "152.083333333333"
+  },
+  {
+    "from": "USD",
+    "to": "JPY",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "152083333333333.33",
+    "exchangeRate": "152.083333333333"
+  },
+  {
+    "from": "EUR",
+    "to": "CAD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.515151515152"
+  },
+  {
+    "from": "EUR",
+    "to": "CAD",
+    "amount": "0.01",
+    "convertedAmount": "0.02",
+    "exchangeRate": "1.515151515152"
+  },
+  {
+    "from": "EUR",
+    "to": "CAD",
+    "amount": "1.015",
+    "convertedAmount": "1.54",
+    "exchangeRate": "1.515151515152"
+  },
+  {
+    "from": "EUR",
+    "to": "CAD",
+    "amount": "123.45",
+    "convertedAmount": "187.05",
+    "exchangeRate": "1.515151515152"
+  },
+  {
+    "from": "EUR",
+    "to": "CAD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.515151515152"
+  },
+  {
+    "from": "EUR",
+    "to": "CAD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1515151515151.52",
+    "exchangeRate": "1.515151515152"
+  },
+  {
+    "from": "EUR",
+    "to": "USD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.090909090909"
+  },
+  {
+    "from": "EUR",
+    "to": "USD",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "1.090909090909"
+  },
+  {
+    "from": "EUR",
+    "to": "USD",
+    "amount": "1.015",
+    "convertedAmount": "1.11",
+    "exchangeRate": "1.090909090909"
+  },
+  {
+    "from": "EUR",
+    "to": "USD",
+    "amount": "123.45",
+    "convertedAmount": "134.67",
+    "exchangeRate": "1.090909090909"
+  },
+  {
+    "from": "EUR",
+    "to": "USD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.090909090909"
+  },
+  {
+    "from": "EUR",
+    "to": "USD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1090909090909.09",
+    "exchangeRate": "1.090909090909"
+  },
+  {
+    "from": "EUR",
+    "to": "EUR",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "EUR",
+    "to": "EUR",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "EUR",
+    "to": "EUR",
+    "amount": "1.015",
+    "convertedAmount": "1.02",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "EUR",
+    "to": "EUR",
+    "amount": "123.45",
+    "convertedAmount": "123.45",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "EUR",
+    "to": "EUR",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "EUR",
+    "to": "EUR",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1000000000000.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "EUR",
+    "to": "GBP",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.863636363636"
+  },
+  {
+    "from": "EUR",
+    "to": "GBP",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.863636363636"
+  },
+  {
+    "from": "EUR",
+    "to": "GBP",
+    "amount": "1.015",
+    "convertedAmount": "0.88",
+    "exchangeRate": "0.863636363636"
+  },
+  {
+    "from": "EUR",
+    "to": "GBP",
+    "amount": "123.45",
+    "convertedAmount": "106.62",
+    "exchangeRate": "0.863636363636"
+  },
+  {
+    "from": "EUR",
+    "to": "GBP",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.863636363636"
+  },
+  {
+    "from": "EUR",
+    "to": "GBP",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "863636363636.36",
+    "exchangeRate": "0.863636363636"
+  },
+  {
+    "from": "EUR",
+    "to": "AUD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.651515151515"
+  },
+  {
+    "from": "EUR",
+    "to": "AUD",
+    "amount": "0.01",
+    "convertedAmount": "0.02",
+    "exchangeRate": "1.651515151515"
+  },
+  {
+    "from": "EUR",
+    "to": "AUD",
+    "amount": "1.015",
+    "convertedAmount": "1.68",
+    "exchangeRate": "1.651515151515"
+  },
+  {
+    "from": "EUR",
+    "to": "AUD",
+    "amount": "123.45",
+    "convertedAmount": "203.88",
+    "exchangeRate": "1.651515151515"
+  },
+  {
+    "from": "EUR",
+    "to": "AUD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.651515151515"
+  },
+  {
+    "from": "EUR",
+    "to": "AUD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1651515151515.15",
+    "exchangeRate": "1.651515151515"
+  },
+  {
+    "from": "EUR",
+    "to": "JPY",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "165.909090909091"
+  },
+  {
+    "from": "EUR",
+    "to": "JPY",
+    "amount": "0.01",
+    "convertedAmount": "1.66",
+    "exchangeRate": "165.909090909091"
+  },
+  {
+    "from": "EUR",
+    "to": "JPY",
+    "amount": "1.015",
+    "convertedAmount": "168.40",
+    "exchangeRate": "165.909090909091"
+  },
+  {
+    "from": "EUR",
+    "to": "JPY",
+    "amount": "123.45",
+    "convertedAmount": "20481.48",
+    "exchangeRate": "165.909090909091"
+  },
+  {
+    "from": "EUR",
+    "to": "JPY",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "165.909090909091"
+  },
+  {
+    "from": "EUR",
+    "to": "JPY",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "165909090909090.91",
+    "exchangeRate": "165.909090909091"
+  },
+  {
+    "from": "GBP",
+    "to": "CAD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.754385964912"
+  },
+  {
+    "from": "GBP",
+    "to": "CAD",
+    "amount": "0.01",
+    "convertedAmount": "0.02",
+    "exchangeRate": "1.754385964912"
+  },
+  {
+    "from": "GBP",
+    "to": "CAD",
+    "amount": "1.015",
+    "convertedAmount": "1.78",
+    "exchangeRate": "1.754385964912"
+  },
+  {
+    "from": "GBP",
+    "to": "CAD",
+    "amount": "123.45",
+    "convertedAmount": "216.58",
+    "exchangeRate": "1.754385964912"
+  },
+  {
+    "from": "GBP",
+    "to": "CAD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.754385964912"
+  },
+  {
+    "from": "GBP",
+    "to": "CAD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1754385964912.28",
+    "exchangeRate": "1.754385964912"
+  },
+  {
+    "from": "GBP",
+    "to": "USD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.263157894737"
+  },
+  {
+    "from": "GBP",
+    "to": "USD",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "1.263157894737"
+  },
+  {
+    "from": "GBP",
+    "to": "USD",
+    "amount": "1.015",
+    "convertedAmount": "1.28",
+    "exchangeRate": "1.263157894737"
+  },
+  {
+    "from": "GBP",
+    "to": "USD",
+    "amount": "123.45",
+    "convertedAmount": "155.94",
+    "exchangeRate": "1.263157894737"
+  },
+  {
+    "from": "GBP",
+    "to": "USD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.263157894737"
+  },
+  {
+    "from": "GBP",
+    "to": "USD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1263157894736.84",
+    "exchangeRate": "1.263157894737"
+  },
+  {
+    "from": "GBP",
+    "to": "EUR",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.157894736842"
+  },
+  {
+    "from": "GBP",
+    "to": "EUR",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "1.157894736842"
+  },
+  {
+    "from": "GBP",
+    "to": "EUR",
+    "amount": "1.015",
+    "convertedAmount": "1.18",
+    "exchangeRate": "1.157894736842"
+  },
+  {
+    "from": "GBP",
+    "to": "EUR",
+    "amount": "123.45",
+    "convertedAmount": "142.94",
+    "exchangeRate": "1.157894736842"
+  },
+  {
+    "from": "GBP",
+    "to": "EUR",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.157894736842"
+  },
+  {
+    "from": "GBP",
+    "to": "EUR",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1157894736842.11",
+    "exchangeRate": "1.157894736842"
+  },
+  {
+    "from": "GBP",
+    "to": "GBP",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "GBP",
+    "to": "GBP",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "GBP",
+    "to": "GBP",
+    "amount": "1.015",
+    "convertedAmount": "1.02",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "GBP",
+    "to": "GBP",
+    "amount": "123.45",
+    "convertedAmount": "123.45",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "GBP",
+    "to": "GBP",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "GBP",
+    "to": "GBP",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1000000000000.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "GBP",
+    "to": "AUD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.912280701754"
+  },
+  {
+    "from": "GBP",
+    "to": "AUD",
+    "amount": "0.01",
+    "convertedAmount": "0.02",
+    "exchangeRate": "1.912280701754"
+  },
+  {
+    "from": "GBP",
+    "to": "AUD",
+    "amount": "1.015",
+    "convertedAmount": "1.94",
+    "exchangeRate": "1.912280701754"
+  },
+  {
+    "from": "GBP",
+    "to": "AUD",
+    "amount": "123.45",
+    "convertedAmount": "236.07",
+    "exchangeRate": "1.912280701754"
+  },
+  {
+    "from": "GBP",
+    "to": "AUD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.912280701754"
+  },
+  {
+    "from": "GBP",
+    "to": "AUD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1912280701754.39",
+    "exchangeRate": "1.912280701754"
+  },
+  {
+    "from": "GBP",
+    "to": "JPY",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "192.105263157895"
+  },
+  {
+    "from": "GBP",
+    "to": "JPY",
+    "amount": "0.01",
+    "convertedAmount": "1.92",
+    "exchangeRate": "192.105263157895"
+  },
+  {
+    "from": "GBP",
+    "to": "JPY",
+    "amount": "1.015",
+    "convertedAmount": "194.99",
+    "exchangeRate": "192.105263157895"
+  },
+  {
+    "from": "GBP",
+    "to": "JPY",
+    "amount": "123.45",
+    "convertedAmount": "23715.39",
+    "exchangeRate": "192.105263157895"
+  },
+  {
+    "from": "GBP",
+    "to": "JPY",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "192.105263157895"
+  },
+  {
+    "from": "GBP",
+    "to": "JPY",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "192105263157894.74",
+    "exchangeRate": "192.105263157895"
+  },
+  {
+    "from": "AUD",
+    "to": "CAD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.917431192661"
+  },
+  {
+    "from": "AUD",
+    "to": "CAD",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.917431192661"
+  },
+  {
+    "from": "AUD",
+    "to": "CAD",
+    "amount": "1.015",
+    "convertedAmount": "0.93",
+    "exchangeRate": "0.917431192661"
+  },
+  {
+    "from": "AUD",
+    "to": "CAD",
+    "amount": "123.45",
+    "convertedAmount": "113.26",
+    "exchangeRate": "0.917431192661"
+  },
+  {
+    "from": "AUD",
+    "to": "CAD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.917431192661"
+  },
+  {
+    "from": "AUD",
+    "to": "CAD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "917431192660.55",
+    "exchangeRate": "0.917431192661"
+  },
+  {
+    "from": "AUD",
+    "to": "USD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.660550458716"
+  },
+  {
+    "from": "AUD",
+    "to": "USD",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.660550458716"
+  },
+  {
+    "from": "AUD",
+    "to": "USD",
+    "amount": "1.015",
+    "convertedAmount": "0.67",
+    "exchangeRate": "0.660550458716"
+  },
+  {
+    "from": "AUD",
+    "to": "USD",
+    "amount": "123.45",
+    "convertedAmount": "81.54",
+    "exchangeRate": "0.660550458716"
+  },
+  {
+    "from": "AUD",
+    "to": "USD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.660550458716"
+  },
+  {
+    "from": "AUD",
+    "to": "USD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "660550458715.60",
+    "exchangeRate": "0.660550458716"
+  },
+  {
+    "from": "AUD",
+    "to": "EUR",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.605504587156"
+  },
+  {
+    "from": "AUD",
+    "to": "EUR",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.605504587156"
+  },
+  {
+    "from": "AUD",
+    "to": "EUR",
+    "amount": "1.015",
+    "convertedAmount": "0.61",
+    "exchangeRate": "0.605504587156"
+  },
+  {
+    "from": "AUD",
+    "to": "EUR",
+    "amount": "123.45",
+    "convertedAmount": "74.75",
+    "exchangeRate": "0.605504587156"
+  },
+  {
+    "from": "AUD",
+    "to": "EUR",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.605504587156"
+  },
+  {
+    "from": "AUD",
+    "to": "EUR",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "605504587155.96",
+    "exchangeRate": "0.605504587156"
+  },
+  {
+    "from": "AUD",
+    "to": "GBP",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.522935779817"
+  },
+  {
+    "from": "AUD",
+    "to": "GBP",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.522935779817"
+  },
+  {
+    "from": "AUD",
+    "to": "GBP",
+    "amount": "1.015",
+    "convertedAmount": "0.53",
+    "exchangeRate": "0.522935779817"
+  },
+  {
+    "from": "AUD",
+    "to": "GBP",
+    "amount": "123.45",
+    "convertedAmount": "64.56",
+    "exchangeRate": "0.522935779817"
+  },
+  {
+    "from": "AUD",
+    "to": "GBP",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.522935779817"
+  },
+  {
+    "from": "AUD",
+    "to": "GBP",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "522935779816.51",
+    "exchangeRate": "0.522935779817"
+  },
+  {
+    "from": "AUD",
+    "to": "AUD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "AUD",
+    "to": "AUD",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "AUD",
+    "to": "AUD",
+    "amount": "1.015",
+    "convertedAmount": "1.02",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "AUD",
+    "to": "AUD",
+    "amount": "123.45",
+    "convertedAmount": "123.45",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "AUD",
+    "to": "AUD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "AUD",
+    "to": "AUD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1000000000000.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "AUD",
+    "to": "JPY",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "100.458715596330"
+  },
+  {
+    "from": "AUD",
+    "to": "JPY",
+    "amount": "0.01",
+    "convertedAmount": "1.00",
+    "exchangeRate": "100.458715596330"
+  },
+  {
+    "from": "AUD",
+    "to": "JPY",
+    "amount": "1.015",
+    "convertedAmount": "101.97",
+    "exchangeRate": "100.458715596330"
+  },
+  {
+    "from": "AUD",
+    "to": "JPY",
+    "amount": "123.45",
+    "convertedAmount": "12401.63",
+    "exchangeRate": "100.458715596330"
+  },
+  {
+    "from": "AUD",
+    "to": "JPY",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "100.458715596330"
+  },
+  {
+    "from": "AUD",
+    "to": "JPY",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "100458715596330.28",
+    "exchangeRate": "100.458715596330"
+  },
+  {
+    "from": "JPY",
+    "to": "CAD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.009132420091"
+  },
+  {
+    "from": "JPY",
+    "to": "CAD",
+    "amount": "0.01",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.009132420091"
+  },
+  {
+    "from": "JPY",
+    "to": "CAD",
+    "amount": "1.015",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.009132420091"
+  },
+  {
+    "from": "JPY",
+    "to": "CAD",
+    "amount": "123.45",
+    "convertedAmount": "1.13",
+    "exchangeRate": "0.009132420091"
+  },
+  {
+    "from": "JPY",
+    "to": "CAD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.009132420091"
+  },
+  {
+    "from": "JPY",
+    "to": "CAD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "9132420091.32",
+    "exchangeRate": "0.009132420091"
+  },
+  {
+    "from": "JPY",
+    "to": "USD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.006575342466"
+  },
+  {
+    "from": "JPY",
+    "to": "USD",
+    "amount": "0.01",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.006575342466"
+  },
+  {
+    "from": "JPY",
+    "to": "USD",
+    "amount": "1.015",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.006575342466"
+  },
+  {
+    "from": "JPY",
+    "to": "USD",
+    "amount": "123.45",
+    "convertedAmount": "0.81",
+    "exchangeRate": "0.006575342466"
+  },
+  {
+    "from": "JPY",
+    "to": "USD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.006575342466"
+  },
+  {
+    "from": "JPY",
+    "to": "USD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "6575342465.75",
+    "exchangeRate": "0.006575342466"
+  },
+  {
+    "from": "JPY",
+    "to": "EUR",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.006027397260"
+  },
+  {
+    "from": "JPY",
+    "to": "EUR",
+    "amount": "0.01",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.006027397260"
+  },
+  {
+    "from": "JPY",
+    "to": "EUR",
+    "amount": "1.015",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.006027397260"
+  },
+  {
+    "from": "JPY",
+    "to": "EUR",
+    "amount": "123.45",
+    "convertedAmount": "0.74",
+    "exchangeRate": "0.006027397260"
+  },
+  {
+    "from": "JPY",
+    "to": "EUR",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.006027397260"
+  },
+  {
+    "from": "JPY",
+    "to": "EUR",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "6027397260.27",
+    "exchangeRate": "0.006027397260"
+  },
+  {
+    "from": "JPY",
+    "to": "GBP",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.005205479452"
+  },
+  {
+    "from": "JPY",
+    "to": "GBP",
+    "amount": "0.01",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.005205479452"
+  },
+  {
+    "from": "JPY",
+    "to": "GBP",
+    "amount": "1.015",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.005205479452"
+  },
+  {
+    "from": "JPY",
+    "to": "GBP",
+    "amount": "123.45",
+    "convertedAmount": "0.64",
+    "exchangeRate": "0.005205479452"
+  },
+  {
+    "from": "JPY",
+    "to": "GBP",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.005205479452"
+  },
+  {
+    "from": "JPY",
+    "to": "GBP",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "5205479452.05",
+    "exchangeRate": "0.005205479452"
+  },
+  {
+    "from": "JPY",
+    "to": "AUD",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.009954337900"
+  },
+  {
+    "from": "JPY",
+    "to": "AUD",
+    "amount": "0.01",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.009954337900"
+  },
+  {
+    "from": "JPY",
+    "to": "AUD",
+    "amount": "1.015",
+    "convertedAmount": "0.01",
+    "exchangeRate": "0.009954337900"
+  },
+  {
+    "from": "JPY",
+    "to": "AUD",
+    "amount": "123.45",
+    "convertedAmount": "1.23",
+    "exchangeRate": "0.009954337900"
+  },
+  {
+    "from": "JPY",
+    "to": "AUD",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "0.009954337900"
+  },
+  {
+    "from": "JPY",
+    "to": "AUD",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "9954337899.54",
+    "exchangeRate": "0.009954337900"
+  },
+  {
+    "from": "JPY",
+    "to": "JPY",
+    "amount": "0",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "JPY",
+    "to": "JPY",
+    "amount": "0.01",
+    "convertedAmount": "0.01",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "JPY",
+    "to": "JPY",
+    "amount": "1.015",
+    "convertedAmount": "1.02",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "JPY",
+    "to": "JPY",
+    "amount": "123.45",
+    "convertedAmount": "123.45",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "JPY",
+    "to": "JPY",
+    "amount": "0.000000000001",
+    "convertedAmount": "0.00",
+    "exchangeRate": "1.000000000000"
+  },
+  {
+    "from": "JPY",
+    "to": "JPY",
+    "amount": "999999999999.999999999999",
+    "convertedAmount": "1000000000000.00",
+    "exchangeRate": "1.000000000000"
+  }
+]
