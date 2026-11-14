@@ -1,0 +1,15 @@
+{
+  "name": "atb-fx-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small FX API with exact decimal conversion and explicit rounding.",
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test",
+    "test:coverage": "node --test --experimental-test-coverage --test-coverage-include=src/** --test-coverage-exclude=src/server.js",
+    "demo": "node scripts/demo.js"
+  }
+}
