@@ -42,9 +42,20 @@ function send(response, status, payload, headers = {}) {
 }
 
 /** Each server is independent, so tests use real HTTP on an ephemeral port. */
-export function createApp({ onError = console.error } = {}) {
+export function createApp({ onError = console.error, indexHtml = null } = {}) {
   return createServer({ requestTimeout: 10_000, headersTimeout: 10_000 }, async (request, response) => {
     try {
+      if (indexHtml !== null && request.method === 'GET' && request.url.split('?')[0] === '/') {
+        response.writeHead(200, {
+          'Content-Type': 'text/html; charset=utf-8',
+          'Content-Length': Buffer.byteLength(indexHtml),
+          'Cache-Control': 'no-store',
+          'X-Content-Type-Options': 'nosniff',
+          'Content-Security-Policy': "default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; connect-src 'self'; img-src data:; base-uri 'none'; frame-ancestors 'none'",
+        });
+        response.end(indexHtml);
+        return;
+      }
       if (request.url.split('?')[0] !== '/convert') {
         throw new ApiError(404, 'NOT_FOUND', 'Use POST /convert.');
       }

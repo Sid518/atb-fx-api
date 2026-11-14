@@ -26,6 +26,32 @@ PORT=8080 npm start
 
 PowerShell: `$env:PORT = '8080'; npm start`.
 
+## Optional browser interface
+
+Stop any existing server with Ctrl+C, then run:
+
+```sh
+npm run ui
+```
+
+Open **http://localhost:3000** in a current browser. Enter an amount, type or
+choose the source and destination currencies, and press **Convert amount**.
+Currency codes are normalized in the interface, so `eur` and `cad` work.
+The API still requires uppercase codes when called directly.
+
+The swap button reverses currencies while keeping the amount. Example buttons
+perform common conversions, and an expandable panel shows the real request and
+response. Editing inputs clears the previous result so it cannot be mistaken for
+a conversion of the new values. All calculations run through the existing API.
+
+`npm start` still starts the original API-only service. `npm run ui` adds just
+`GET /` for the interface; both use the same `POST /convert` implementation and
+port. There are no extra dependencies or frontend build steps. `npm run dev`
+starts the browser interface with server watch mode for development.
+
+The browser uses JSON source-token access for exact decimal display where
+supported. Older browsers may fall back to their normal number precision.
+
 `npm run demo` starts its own temporary server, demonstrates five requests, and
 closes it automatically. It does not require a separate running server.
 
@@ -171,7 +197,7 @@ npm test
 npm run test:coverage
 ```
 
-The suite contains **307 tests**:
+The suite contains **311 tests**:
 
 - 216 exact reference cases covering all 36 pairs at six representative amounts.
   The committed expected values were generated independently with Python's
@@ -208,13 +234,15 @@ when hosted on GitHub. That hosted workflow must run after the repository is pus
 | `src/conversion.js` | Pure currency conversion and currency validation |
 | `src/request.js` | JSON parsing, request validation, exact amount-token capture |
 | `src/app.js` | HTTP boundary, body limits, status codes, response serialization |
-| `src/server.js` | Port configuration, startup, shutdown |
+| `src/server.js` | Port configuration, startup, shutdown, optional UI mode |
+| `ui/index.html` | Optional browser converter; calls the same API |
 | `test/` | Unit tests, independent fixtures, generated checks, HTTP integration tests |
 
 ## Scope and next decisions
 
 The service uses only the fictional static rates. There is no database, external
-rate feed, frontend, authentication, or persistence requirement in this exercise.
+rate feed, authentication, or persistence requirement in this exercise. The browser
+interface is an optional demonstration and is disabled in API-only mode.
 A production deployment would need agreed rounding/currency policies, a decimal
 client contract, authenticated access where appropriate, infrastructure-level
 traffic controls, monitoring, and rate freshness/versioning.

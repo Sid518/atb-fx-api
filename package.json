@@ -7,7 +7,8 @@
   "engines": { "node": ">=24" },
   "scripts": {
     "start": "node src/server.js",
-    "dev": "node --watch src/server.js",
+    "ui": "node src/server.js --ui",
+    "dev": "node --watch src/server.js --ui",
     "test": "node --test",
     "test:coverage": "node --test --experimental-test-coverage --test-coverage-include=src/** --test-coverage-exclude=src/server.js",
     "demo": "node scripts/demo.js"
