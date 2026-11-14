@@ -1,0 +1,29 @@
+### Assignment example
+POST http://localhost:3000/convert
+Content-Type: application/json
+
+{"from":"CAD","to":"USD","amount":100.00}
+
+### Cross conversion (91.67 EUR)
+POST http://localhost:3000/convert
+Content-Type: application/json
+
+{"from":"USD","to":"EUR","amount":100}
+
+### Exact rounding at a tie (1.02 CAD)
+POST http://localhost:3000/convert
+Content-Type: application/json
+
+{"from":"CAD","to":"CAD","amount":1.015}
+
+### A token just above a tie (999999999999.99 CAD)
+POST http://localhost:3000/convert
+Content-Type: application/json
+
+{"from":"CAD","to":"CAD","amount":999999999999.985000000001}
+
+### Validation error (400)
+POST http://localhost:3000/convert
+Content-Type: application/json
+
+{"from":"CAD","to":"BTC","amount":100}
