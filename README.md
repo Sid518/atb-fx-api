@@ -258,6 +258,22 @@ git push -u origin main
 
 Confirm that the reviewer has access to the repository before sending its URL.
 
+## AI assistance
+
+I used ChatGPT/Codex throughout this assignment. AI generated substantial portions of the implementation, automated tests, optional browser interface, and documentation.
+
+The assistance included:
+
+- Clarifying requirements, assumptions, and edge cases.
+- Developing the exact-decimal conversion approach using `BigInt`, preserving numeric precision through JSON parsing and serialization, and documenting rounding decisions.
+- Implementing request validation, HTTP error handling, and the browser interface.
+- Generating test cases and Python reference fixtures to cross-check the JavaScript calculations.
+- Reviewing numerical precision, error handling, and implementation complexity.
+
+My verification included running the automated test suite and demonstration locally, sending requests through PowerShell, and checking conversions in the browser interface. Examples included confirming that 100 USD converts to 91.67 EUR and 100 EUR converts to 109.09 USD using the supplied rates.
+
+The test results, reference fixtures, and documented assumptions provide reproducible checks of the implementation. AI-generated code and tests are included in this submission.
+
 ## References
 
 - [ECMAScript JSON parsing and serialization](https://tc39.es/ecma262/multipage/structured-data.html)
